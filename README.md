@@ -1,5 +1,7 @@
 # awb2ics
 
+## Backup of https://github.com/asciidisco/awb2ics, just in case.. 
+
 Abfuhrkalender ICS Generator für Köln AWB
 
 Da die Stadt Köln & die AWB Betriebe es seit Jahren nicht hinbekommen die Abfuhrtermine
